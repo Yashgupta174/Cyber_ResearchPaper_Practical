@@ -1,0 +1,6 @@
+{
+  "run": 1,
+  "base_delay": 2.0,
+  "jitter": 1.0,
+  "detection_time": 50
+}

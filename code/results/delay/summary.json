@@ -1,0 +1,50 @@
+[
+  {
+    "run": 1,
+    "base_delay": 2.0,
+    "jitter": 1.0,
+    "detection_time": 50
+  },
+  {
+    "run": 2,
+    "base_delay": 2.0,
+    "jitter": 1.0,
+    "detection_time": 56
+  },
+  {
+    "run": 3,
+    "base_delay": 2.0,
+    "jitter": 1.0,
+    "detection_time": 50
+  },
+  {
+    "run": 4,
+    "base_delay": 2.0,
+    "jitter": 1.0,
+    "detection_time": 50
+  },
+  {
+    "run": 5,
+    "base_delay": 2.0,
+    "jitter": 1.0,
+    "detection_time": 52
+  },
+  {
+    "run": 6,
+    "base_delay": 2.0,
+    "jitter": 1.0,
+    "detection_time": 50
+  },
+  {
+    "run": 7,
+    "base_delay": 2.0,
+    "jitter": 1.0,
+    "detection_time": 53
+  },
+  {
+    "run": 8,
+    "base_delay": 2.0,
+    "jitter": 1.0,
+    "detection_time": 61
+  }
+]

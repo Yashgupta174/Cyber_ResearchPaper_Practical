@@ -1,0 +1,42 @@
+[
+  {
+    "run": 1,
+    "p_drop": 0.2,
+    "detection_time": 51
+  },
+  {
+    "run": 2,
+    "p_drop": 0.2,
+    "detection_time": 60
+  },
+  {
+    "run": 3,
+    "p_drop": 0.2,
+    "detection_time": 50
+  },
+  {
+    "run": 4,
+    "p_drop": 0.2,
+    "detection_time": 57
+  },
+  {
+    "run": 5,
+    "p_drop": 0.2,
+    "detection_time": 50
+  },
+  {
+    "run": 6,
+    "p_drop": 0.2,
+    "detection_time": 60
+  },
+  {
+    "run": 7,
+    "p_drop": 0.2,
+    "detection_time": 50
+  },
+  {
+    "run": 8,
+    "p_drop": 0.2,
+    "detection_time": 57
+  }
+]
